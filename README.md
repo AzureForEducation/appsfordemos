@@ -7,7 +7,7 @@ Enjoy!
 
 # Applications
 
-* **[Americas University Video Processor (Media Service)](https://github.com/AzureForEducation/appsfordemos/tree/master/demo_simple_webapp_database_connection)**<br />
+* **[Americas University Video Processor (Media Service)](https://github.com/AzureForEducation/appsfordemos/tree/master/au-mediaservices)**<br />
 A simple .NET Core app which interacts with Azure Media Services APIs to create Assets, Acces Policies, Locators, upload videos within an existing asset and also, encoding it.
 
 * **[ASP.NET MVC Core Application with EF Core and Azure Managed Instance](https://github.com/AzureForEducation/appsfordemos/tree/master/demo_simple_webapp_database_connection)**<br />
