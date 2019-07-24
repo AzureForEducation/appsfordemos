@@ -7,5 +7,8 @@ Enjoy!
 
 # Applications
 
+* **[Americas University Video Processor (Media Service)](https://github.com/AzureForEducation/appsfordemos/tree/master/au-mediaservices)**<br />
+A simple .NET Core app which interacts with Azure Media Services APIs to create Assets, Acces Policies, Locators, upload videos within an existing asset and also, encoding it.
+
 * **[ASP.NET MVC Core Application with EF Core and Azure Managed Instance](https://github.com/AzureForEducation/appsfordemos/tree/master/demo_simple_webapp_database_connection)**<br />
 Simple MVC Core application that uses Entity Framework Code First to create a connection and simple interaction with an Azure SQL Managed Instance. You could use it to prove a concept showing how to connect a regular application to Managed Instances under a specific VNet on Azure.
